@@ -1,4 +1,4 @@
-python_version=="3.10.*"
+
 absl-py==2.2.2
 astunparse==1.6.3
 blinker==1.9.0
