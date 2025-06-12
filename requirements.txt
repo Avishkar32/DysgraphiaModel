@@ -25,7 +25,6 @@ Markdown==3.8
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-ml_dtypes==0.5.1
 namex==0.0.9
 numpy==2.1.3
 opt_einsum==3.4.0
@@ -46,7 +45,6 @@ sklearn-compat==0.1.3
 
 tensorflow>=2.16.0
 tensorflow-io-gcs-filesystem>=0.37.1
-tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 
 
